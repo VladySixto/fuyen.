@@ -17,7 +17,7 @@ const ReproductorMusica = () => {
             titulo: 'Cuando llora mi guitarra',
             artista: 'Fuyen',
             duracion: '3:22',
-            src: '/audio/cuandolloramiguitarra.mp3',
+            src: '/audio/Cuando-llora-mi-guitarra.mp3',
             portada: portadaDisco,
         },
         {
@@ -33,7 +33,7 @@ const ReproductorMusica = () => {
             titulo: 'Morir de amor',
             artista: 'Fuyen',
             duracion: '2:54',
-            src: '/audio/morirdeamor.mp3',
+            src: '/audio/Morir-de-amor.mp3',
             portada: portadaDisco,
         },
     ];
@@ -207,3 +207,4 @@ const ReproductorMusica = () => {
 
 
 export default ReproductorMusica;
+
